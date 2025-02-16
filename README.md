@@ -1,6 +1,6 @@
-# Resilience metrics and modeling literature review
+# Resilience metrics systematic review
 
-Project to organize code for literature review on model-based resilience metrics.
+Project to organize the code for two systematic reviews: a meta-review of resilience metrics and a review of simulation-based resilience metrics.
 
 ## Setup
 To run this model you need python v3.11.0. If you are using pyenv you can run the following commands:
